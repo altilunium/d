@@ -11,3 +11,7 @@ Anonymous chat room. Powered by ***[Gun Decentralized Database](https://gun.eco)
 2. ***Gun Server*** : Install nodeJS. Clone this repository : ***[https://github.com/amark/gun](https://github.com/amark/gun)***. Execute `node --inspect examples/http.js`. You can run several gun server at once.
 3. Open `index.html`. Point it to your gun server address. For example : `gun = Gun(['https://nodeA.example.com/gun', 'https://nodeB.example.com/gun', 'https://nodeC.example.com/gun' ]);`
 4. *Optional* Monitoring service : Modify `logAct()` function on `index.html` to set-up your own platform monitoring services.
+
+
+## Whitepaper
+https://www.researchgate.net/publication/362546211_Altilunium_D_-_Anonymous_Chatroom_berbasis_Decentralized_Database (in Indonesian Language)
